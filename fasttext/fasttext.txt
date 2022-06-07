@@ -1,0 +1,1 @@
+Ajouter dans ce dossier le fichier lid.176.bin pour pouvoir utiliser fasttext
